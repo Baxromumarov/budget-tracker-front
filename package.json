@@ -1,0 +1,7 @@
+{
+  "name": "budget-tracker-front",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ]
+}
