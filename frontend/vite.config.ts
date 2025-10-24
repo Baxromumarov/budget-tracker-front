@@ -10,5 +10,6 @@ export default defineConfig({
   },
   preview: {
     port: 4173,
+    allowedHosts: ["budget-tracker-front-production.up.railway.app"],
   },
 });
